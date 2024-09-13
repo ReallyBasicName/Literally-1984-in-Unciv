@@ -4,13 +4,6 @@ size: 1024, 256
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
-FlagIcons/Newspeak
-  rotate: false
-  xy: 761, 112
-  size: 128, 128
-  orig: 128, 128
-  offset: 0, 0
-  index: -1
 LeaderIcons/Big Brother
   rotate: false
   xy: 212, 65
@@ -34,21 +27,21 @@ LeaderIcons/Mother Russia
   index: -1
 NationIcons/Animal Farm
   rotate: false
-  xy: 897, 140
+  xy: 761, 140
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/Eastasia
   rotate: false
-  xy: 761, 4
+  xy: 869, 140
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/Eurasia
   rotate: false
-  xy: 897, 32
+  xy: 761, 32
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
@@ -58,5 +51,40 @@ NationIcons/Oceania
   xy: 4, 40
   size: 200, 200
   orig: 200, 200
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Obiekt 280
+  rotate: false
+  xy: 977, 212
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Shock Troops
+  rotate: false
+  xy: 4, 4
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Thought Police
+  rotate: false
+  xy: 977, 176
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Volunteer Army
+  rotate: false
+  xy: 44, 4
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+UnitIcons/Thought Police
+  rotate: false
+  xy: 869, 32
+  size: 100, 100
+  orig: 100, 100
   offset: 0, 0
   index: -1
