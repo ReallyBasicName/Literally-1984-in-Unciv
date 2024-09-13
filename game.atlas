@@ -1,0 +1,62 @@
+
+game.png
+size: 1024, 256
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+FlagIcons/Newspeak
+  rotate: false
+  xy: 761, 112
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+LeaderIcons/Big Brother
+  rotate: false
+  xy: 212, 65
+  size: 175, 175
+  orig: 175, 175
+  offset: 0, 0
+  index: -1
+LeaderIcons/Immortal Father
+  rotate: false
+  xy: 395, 65
+  size: 175, 175
+  orig: 175, 175
+  offset: 0, 0
+  index: -1
+LeaderIcons/Mother Russia
+  rotate: false
+  xy: 578, 65
+  size: 175, 175
+  orig: 175, 175
+  offset: 0, 0
+  index: -1
+NationIcons/Animal Farm
+  rotate: false
+  xy: 897, 140
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Eastasia
+  rotate: false
+  xy: 761, 4
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Eurasia
+  rotate: false
+  xy: 897, 32
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Oceania
+  rotate: false
+  xy: 4, 40
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1

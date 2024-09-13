@@ -1,0 +1,36 @@
+[
+	// Capital Uniques
+	/*{
+		"name": "Ministry of Truth",
+		"isWonder": true,
+		"uniqueTo": "Oceania",
+		"happiness": -30,
+		"cost": 1,
+		"uniques": [
+			//"Provides [1] [Power]",
+			"[1] free [Thought Police] units appear",
+			"Can only be built <in [Capital] cities>",
+			"Gain a free [Memory Hole] [in this city]",
+			"Automatically built in all cities where it is buildable"
+		],
+		"quote": "Who controls the past controls the future, who controls the present controls the past.",
+	},
+	{
+		"name": "Memory Hole",
+		"uniqueTo": "Oceania",
+		"replaces": "Library",
+		"hurryCostModifier": 25,
+		"uniques": [
+			"[+1 Happiness] per [5] population [in this city]",
+			"[+1 Science] per [2] population [in this city] <after discovering [Writing]>",
+			"[+1 Science] [in this city] <when above [0] [Power]> <after discovering [Writing]>",
+			"[+2 Science] from [Books] tiles [in this city] <after discovering [Writing]>"
+		],
+		"requiredTech": "Writing",
+		"civilopediaText": [
+			{
+				"text": "This building enables the construction of factories and power plants.","link":"Building/Factory"
+			}
+		]
+	}*/
+]
