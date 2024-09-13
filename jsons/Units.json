@@ -1,19 +1,19 @@
 [
-	{
+	/*{
 		"name": "Proles",
 		"unitType": "Civilian",
 		"uniqueTo": "Oceania",
 		"replaces": "Worker",
 		"movement": 2,
 		"uniques": [
-			"[-50]% maintenance costs"
+			"[-50]% maintenance costs",
 			"Can build [Land] improvements on tiles",
-			"Automation is a primary action"
-			"[-25]% construction time for [All] improvements <when above [0] Happiness>"
+			"Automation is a primary action",
+			"[-25]% construction time for [All] improvements <when above [0] Happiness>",
 			"[+25]% construction time for [All] improvements <when below [0] Happiness>"
 		],
 		"cost": 70
-	},
+	},*/
 	{
 		"name": "Thought Police",
 		"unitType": "Civilian",
@@ -33,7 +33,7 @@
 		],
 		"movement": 3
 	},
-	{
+	/*{
 		"name": "Rocket Bomb",
 		"unitType": "Missile",
 		"uniqueTo": "Oceania",
@@ -61,7 +61,7 @@
 		"uniques": ["Nuclear weapon of Strength [2]", "Only available <if [Manhattan Project] is constructed>",
 			"Blast radius [2]", "Consumes [2] [Uranium]"],
 		"attackSound": "nuke"
-	},
+	},*/
 	{
 		"name": "Volunteer Army",
 		"uniqueTo": "Eastasia",
@@ -72,30 +72,32 @@
 		"cost": 335,
 		"requiredTech": "Mobile Tactics",
 		"uniques": ["Never appears as a Barbarian unit"],
-		"attackSound": "tankshot"
+		"attackSound": "shot"
 	},
 	{
 		"name": "Obiekt 280",
 		"uniqueTo": "Eurasia",
 		"replaces": "Giant Death Robot",
 		"unitType": "Armored",
-		"movement": 2,
+		"movement": 3,
 		"strength": 120,
 		"cost": 400,
 		"requiredTech": "Nuclear Fusion",
 		"requiredResource": "Uranium",
 		"uniques": ["Can move after attacking", "No defensive terrain bonus", "Never appears as a Barbarian unit"],
-		"attackSound": "gdrAttack"
+		"attackSound": "tankshot"
 	},
 	{
-		"name": "Mechanized Infantry",
+		"name": "Shock Troops",
+		"uniqueTo": "Eurasia",
+		"replaces": "Mechanized Infantry",
 		"unitType": "Gunpowder",
 		"movement": 3,
 		"strength": 90,
 		"cost": 375,
 		"requiredTech": "Mobile Tactics",
 		"uniques": ["Never appears as a Barbarian unit"],
-		"attackSound": "tankshot"
+		"attackSound": "shot"
 	},
 
 ]
