@@ -33,7 +33,7 @@
 			"[+37]% growth [in all cities] <when between [-10] and [-1] Happiness> <when at war> <hidden from users>",
 			"[+25]% [Production] [in all cities] <when below [-10] Happiness> <when at war> <hidden from users>",
 			"[+16]% Strength <for [All] units> <when below [-10] Happiness> <when at war> <hidden from users>",
-			"Gain an extra spy <upon entering the [Ancient era]>"
+			"Gain an extra spy <upon entering the [Renaissance era]>"
 
 		],
 		"cities": [
