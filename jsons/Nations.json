@@ -32,7 +32,7 @@
 			"[-1] Happiness from each type of luxury resource",
 			"[+37]% growth [in all cities] <when between [-10] and [-1] Happiness> <when at war> <hidden from users>",
 			"[+25]% [Production] [in all cities] <when below [-10] Happiness> <when at war> <hidden from users>",
-			"[+16]% Strength <for [All] units> <when below [-10] Happiness> <when at war> <hidden from users>"
+			"[+16]% Strength <for [All] units> <when below [-10] Happiness> <when at war> <hidden from users>",
 			"Gain an extra spy <upon entering the [Ancient era]>"
 
 		],
@@ -99,15 +99,15 @@
 		"startIntroPart1": "",
 		"startIntroPart2": "",
 
-		"declaringWar": "You have committed the greatest of crimes: disloyalty. Prepare to be erased from history.",
-		"attacked": "Oceania is eternal. All memory of your resistance will be... erased.",
-		"defeated": "Temporary setbacks are irrelevant, the Party will rise again.",
-		"introduction": "Your existence is acknowledged.",
+		"declaringWar": "Your resistance is futile, and now you will be forgotten.",
+		"attacked": "We have always been at war, I just gave you the mercy of a first strike.",
+		"defeated": "This is a momentary defeat. Eastasia endures, while you shall crumble from within.",
+		"introduction": "Your way of life is alien to the harmony of Eastasia, thread carefully.",
 
-		"neutralHello": "The Party sees all.",
-		"hateHello": "We know what you are. History will not remember your defiance.",
+		"neutralHello": "Service to the state is the greatest honor.",
+		"hateHello": "Your stupidity outweighs your insignificance.",
 
-		"tradeRequest": "May I interest you in an exchange of goods?.",
+		"tradeRequest": "You now owe us a debt, repayment can be exchanged for servitude.",
 
 		"outerColor": [202, 180, 164],
 		"innerColor": [109, 16, 16],
@@ -115,7 +115,7 @@
 		"uniqueName": "The Father Lives On",
 		"uniques": [
 			"Cannot build [Atomic Bomber] units"
-		],
+		]
 		"cities": [
 			"Lond",
 			"Yor",
