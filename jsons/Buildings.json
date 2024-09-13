@@ -4,7 +4,7 @@
 		"name": "Ministry of Truth",
 		"isWonder": true,
 		"uniqueTo": "Oceania",
-		"happiness": -30,
+		"happiness": -1,
 		"cost": 1,
 		"uniques": [
 			//"Provides [1] [Power]",
@@ -33,4 +33,13 @@
 			}
 		]
 	}*/
+	{
+		"name": "Temple",
+		"faith": 2,
+		"requiredBuilding": "Shrine",
+		"maintenance": 2,
+		"hurryCostModifier": 25,
+		"requiredTech": "Philosophy",
+		"uniques": ["Hidden when religion is disabled", "Destroyed when the city is captured"]
+	},
 ]
