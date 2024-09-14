@@ -201,7 +201,7 @@
 		"uniques": [
 			"Cannot build [Atomic Bomber] units",
 			"[+1 Culture] from every [Strategic resource]",
-			"[-10]% Strength <vs [{Military} {Land}]> <when not at wat>",
+			"[-10]% Strength <vs [{Military} {Land}]> <when not at war>",
 			"Quantity of strategic resources produced by the empire +[10]%"
 		]
 		"cities": [
