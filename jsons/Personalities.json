@@ -1,2 +1,31 @@
 [
+	/*{
+		"name": "Template",
+		"preferredVictoryType": "Victory",
+		"culture": ,
+		"faith": ,
+		"food": ,
+		"gold": ,
+		"happiness": ,
+		"production": ,
+		"science": ,
+		"military": ,
+		"priorities": {
+			"Tradition": ,
+			"Liberty": ,
+			"Honor": ,
+			"Commerce": ,
+			"Patronage": ,
+			"Piety": ,
+			"Rationalism": ,
+			"Freedom": ,
+			"Autocracy": ,
+			"Order": 
+		},
+		"warMongering": ,
+		"uniques": ["Will not build [baseUnitFilter/buildingFilter]"],
+		"civilopediaText": [
+			{"text": "Alexander the Great, born in Macedon, was one of the most skilled generals, even more by his young age, and in only 17 years he conquered all the Greek known world."}
+		]
+	},*/
 ]
