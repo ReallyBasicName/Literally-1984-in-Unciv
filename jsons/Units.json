@@ -73,7 +73,7 @@
 		"requiredTech": "Mobile Tactics",
 		"uniques": [
 			"Never appears as a Barbarian unit",
-			"[+5]% Strength <when adjacent to a [Volunteer Army] unit>"
+			"[+15]% Strength <when adjacent to a [Volunteer Army] unit>"
 		],
 		"attackSound": "shot"
 	},
