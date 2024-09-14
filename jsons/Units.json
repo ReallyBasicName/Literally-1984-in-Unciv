@@ -71,7 +71,10 @@
 		"strength": 75,
 		"cost": 335,
 		"requiredTech": "Mobile Tactics",
-		"uniques": ["Never appears as a Barbarian unit"],
+		"uniques": [
+			"Never appears as a Barbarian unit",
+			"[+5]% Strength <when adjacent to a [Volunteer Army] unit>"
+		],
 		"attackSound": "shot"
 	},
 	{
