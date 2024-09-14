@@ -77,12 +77,12 @@
 			"Hul"
 		],
 		"spyNames": [
-			"Agent O'Brien ",
+			"Agent O'Brien",
 			"Agent O'Connor",
 			"Agent Charrington",
 			"Agent Grey",
 			"Agent Black",
-			"Agent Browm",
+			"Agent Brown",
 			"Agent White",
 			"Agent Crimson",
 			"Agent Maroon",
@@ -201,6 +201,7 @@
 		"uniques": [
 			"Cannot build [Atomic Bomber] units",
 			"[+1 Culture] from every [Strategic resource]",
+			"[-10]% Strength <vs [{Military} {Land}]> <when not at wat>",
 			"Quantity of strategic resources produced by the empire +[10]%"
 		]
 		"cities": [
@@ -259,7 +260,7 @@
 			"Comrade Łukasz",
 			"Comrade Marie",
 			"Comrade Juan",
-			"Famine of 100 Souls"
+			"Famine of 1000 Souls"
 		]
 	}
 ]
