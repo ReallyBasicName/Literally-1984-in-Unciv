@@ -116,8 +116,9 @@
 		"uniques": [
 			"Cannot build [Atomic Bomber] units",
 			"[+1 Production] per [4] population [in all cities]",
-			"[-15]% happiness [in all cities] <when not at war>",
-			"[+15]% Strength <for [Gunpowder] units> <when fighting in [Friendly Land] tiles>"
+			"[+15]% Unhappiness from [Population] [in all cities] <when not at war>",
+			"[+10]% Strength <for [Gunpowder] units> <when fighting in [Friendly Land] tiles>",
+			"[-10]% Strength <for [Gunpowder] units> <when fighting in [Enemy Land] tiles>"
 		]
 		"cities": [
 			"Lond",
