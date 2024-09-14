@@ -83,11 +83,17 @@
 		"replaces": "Giant Death Robot",
 		"unitType": "Armored",
 		"movement": 3,
-		"strength": 120,
-		"cost": 400,
+		"strength": 165,
+		"cost": 475,
 		"requiredTech": "Nuclear Fusion",
 		"requiredResource": "Uranium",
-		"uniques": ["Can move after attacking", "No defensive terrain bonus", "Never appears as a Barbarian unit"],
+		"uniques": [
+			"Can move after attacking",
+			"No defensive terrain bonus",
+			"Never appears as a Barbarian unit",
+			"[-33]% Strength <vs [Cities]> <when attacking>",
+			"[+33]% Strength <vs [Armored]> <when attacking>",
+			"[+33]% Strength <vs [Gunpowder]> <when attacking>"],
 		"attackSound": "tankshot"
 	},
 	{
@@ -99,7 +105,10 @@
 		"strength": 90,
 		"cost": 375,
 		"requiredTech": "Mobile Tactics",
-		"uniques": ["Never appears as a Barbarian unit"],
+		"uniques": [
+			"Never appears as a Barbarian unit",
+			"[-10]% Strength <vs [Armored]> <when defending>",
+			"[+10]% Strength <vs [Gunpowder]> <when attacking>"],
 		"attackSound": "shot"
 	},
 
