@@ -114,7 +114,10 @@
 		"favoredReligion": "Death Worship",
 		"uniqueName": "The Father Lives On",
 		"uniques": [
-			"Cannot build [Atomic Bomber] units"
+			"Cannot build [Atomic Bomber] units",
+			"[+1 Production] per [4] population [in all cities]",
+			"[-15]% happiness [in all cities] <when not at war>",
+			"[+15]% Strength <for [Gunpowder] units> <when fighting in [Friendly Land] tiles>"
 		]
 		"cities": [
 			"Lond",
@@ -157,16 +160,16 @@
 			"Hul"
 		],
 		"spyNames": [
-			"Agent O'Brien ",
-			"Agent O'Connor",
-			"Agent Charrington",
-			"Agent Grey",
-			"Agent Black",
-			"Agent Browm",
-			"Agent White",
-			"Agent Crimson",
-			"Agent Maroon",
-			"Shadow of Room 101"
+			"Commissar O'Brien ",
+			"Commissar O'Connor",
+			"Commissar Charrington",
+			"Commissar Grey",
+			"Commissar Black",
+			"Commissar Browm",
+			"Commissar White",
+			"Commissar Crimson",
+			"Commissar Maroon",
+			"Dragon of Education"
 		]
 	},
 	{
@@ -245,16 +248,16 @@
 			"Arzgrad"
 		],
 		"spyNames": [
-			"Agent O'Brien ",
-			"Agent O'Connor",
-			"Agent Charrington",
-			"Agent Grey",
-			"Agent Black",
-			"Agent Browm",
-			"Agent White",
-			"Agent Crimson",
-			"Agent Maroon",
-			"Shadow of Room 101"
+			"Comrade O'Brien ",
+			"Comrade O'Connor",
+			"Comrade Charrington",
+			"Comrade Grey",
+			"Comrade Black",
+			"Comrade Browm",
+			"Comrade White",
+			"Comrade Crimson",
+			"Comrade Maroon",
+			"Famine of 100 Souls"
 		]
 	}
 ]
