@@ -13,7 +13,7 @@ BuildingIcons/Committee of Unity
   index: -1
 BuildingIcons/Ministry of Truth
   rotate: false
-  xy: 1193, 140
+  xy: 1409, 140
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
@@ -48,14 +48,14 @@ NationIcons/Animal Farm
   index: -1
 NationIcons/Eastasia
   rotate: false
-  xy: 977, 140
+  xy: 1085, 140
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/Eurasia
   rotate: false
-  xy: 1085, 140
+  xy: 1193, 140
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
@@ -67,58 +67,79 @@ NationIcons/Oceania
   orig: 200, 200
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Units/Obiekt 280
+ReligionIcons/Death Worship
   rotate: false
-  xy: 4, 4
-  size: 32, 28
-  orig: 32, 28
+  xy: 977, 140
+  size: 100, 100
+  orig: 100, 100
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Units/Shock Troops
-  rotate: false
-  xy: 761, 104
-  size: 32, 28
-  orig: 32, 28
-  offset: 0, 0
-  index: -1
-TileSets/FantasyHex/Units/Thought Police
-  rotate: false
-  xy: 1733, 212
-  size: 32, 28
-  orig: 32, 28
-  offset: 0, 0
-  index: -1
-TileSets/FantasyHex/Units/Volunteer Army
-  rotate: false
-  xy: 44, 4
-  size: 32, 28
-  orig: 32, 28
-  offset: 0, 0
-  index: -1
-UnitIcons/Obiekt 280
+ReligionIcons/INGSOC
   rotate: false
   xy: 1301, 140
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-UnitIcons/Shock Troops
-  rotate: false
-  xy: 1409, 140
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-UnitIcons/Thought Police
+ReligionIcons/Neo-Bolshevism
   rotate: false
   xy: 1517, 140
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-UnitIcons/Volunteer Army
+TileSets/FantasyHex/Units/Obiekt 280
+  rotate: false
+  xy: 1949, 212
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Shock Troops
+  rotate: false
+  xy: 4, 4
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Thought Police
+  rotate: false
+  xy: 869, 104
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Volunteer Army
+  rotate: false
+  xy: 1949, 176
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+UnitIcons/Obiekt 280
   rotate: false
   xy: 1625, 140
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Shock Troops
+  rotate: false
+  xy: 1733, 140
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Thought Police
+  rotate: false
+  xy: 1841, 140
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Volunteer Army
+  rotate: false
+  xy: 761, 32
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
