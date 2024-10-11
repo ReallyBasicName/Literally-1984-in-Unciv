@@ -6,14 +6,14 @@ filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
 BuildingIcons/Committee of Unity
   rotate: false
-  xy: 869, 140
+  xy: 1235, 140
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Ministry of Truth
   rotate: false
-  xy: 1409, 140
+  xy: 1775, 140
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
@@ -25,37 +25,51 @@ LeaderIcons/Big Brother
   orig: 175, 175
   offset: 0, 0
   index: -1
-LeaderIcons/Immortal Father
+LeaderIcons/Enlightened Father
   rotate: false
   xy: 395, 65
   size: 175, 175
   orig: 175, 175
   offset: 0, 0
   index: -1
-LeaderIcons/Mother Russia
+LeaderIcons/Faceless Father2
   rotate: false
   xy: 578, 65
   size: 175, 175
   orig: 175, 175
   offset: 0, 0
   index: -1
+LeaderIcons/Immortal Father-alt
+  rotate: false
+  xy: 761, 65
+  size: 175, 175
+  orig: 175, 175
+  offset: 0, 0
+  index: -1
+LeaderIcons/Mother Russia
+  rotate: false
+  xy: 944, 65
+  size: 175, 175
+  orig: 175, 175
+  offset: 0, 0
+  index: -1
 NationIcons/Animal Farm
   rotate: false
-  xy: 761, 140
+  xy: 1127, 140
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/Eastasia
   rotate: false
-  xy: 1085, 140
+  xy: 1451, 140
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/Eurasia
   rotate: false
-  xy: 1193, 140
+  xy: 1559, 140
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
@@ -69,28 +83,28 @@ NationIcons/Oceania
   index: -1
 ReligionIcons/Death Worship
   rotate: false
-  xy: 977, 140
+  xy: 1343, 140
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 ReligionIcons/INGSOC
   rotate: false
-  xy: 1301, 140
+  xy: 1667, 140
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 ReligionIcons/Neo-Bolshevism
   rotate: false
-  xy: 1517, 140
+  xy: 1883, 140
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Obiekt 280
   rotate: false
-  xy: 1949, 212
+  xy: 1991, 212
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
@@ -104,42 +118,42 @@ TileSets/FantasyHex/Units/Shock Troops
   index: -1
 TileSets/FantasyHex/Units/Thought Police
   rotate: false
-  xy: 869, 104
+  xy: 1559, 104
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Volunteer Army
   rotate: false
-  xy: 1949, 176
+  xy: 1991, 176
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 UnitIcons/Obiekt 280
   rotate: false
-  xy: 1625, 140
+  xy: 1127, 32
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Shock Troops
   rotate: false
-  xy: 1733, 140
+  xy: 1235, 32
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Thought Police
   rotate: false
-  xy: 1841, 140
+  xy: 1343, 32
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Volunteer Army
   rotate: false
-  xy: 761, 32
+  xy: 1451, 32
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
