@@ -63,7 +63,7 @@
 		"attackSound": "nuke"
 	},*/
 	{
-		"name": "Volunteer Army",
+		"name": "Fanatic Army",
 		"uniqueTo": "Eastasia",
 		"replaces": "Mechanized Infantry",
 		"unitType": "Gunpowder",
@@ -73,7 +73,7 @@
 		"requiredTech": "Mobile Tactics",
 		"uniques": [
 			"Never appears as a Barbarian unit",
-			"[+15]% Strength <when adjacent to a [Volunteer Army] unit>"
+			"Gain [50] [Culture] <upon being defeated> <(modified by game speed)>"
 		],
 		"attackSound": "shot"
 	},

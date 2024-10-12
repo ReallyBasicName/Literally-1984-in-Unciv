@@ -20,14 +20,15 @@
 		"hateHello": "We know what you are. History will not remember your defiance.",
 
 		"tradeRequest": "May I interest you in an exchange of goods?.",
+		
+		"outerColor": [17, 17, 17],
+		"innerColor": [182, 52, 54],
 
-		"outerColor": [164, 2, 4],
-		"innerColor": [0, 0, 0],
 		"favoredReligion": "INGSOC",
 		"uniqueName": "War is Peace, Freedom is Slavery, Ignorence is Strength",
 		"uniques": [
 			"Cannot build [Atomic Bomber] units",
-			"[+1 Production] from every [Specialist]",
+			"[+1 Production] from every [Strategic resource]",
 			"Comment [Halves some of the effects of unhappiness when at war]",
 			"[-1] Happiness from each type of luxury resource",
 			"[+37]% growth [in all cities] <when between [-10] and [-1] Happiness> <when at war> <hidden from users>",
@@ -91,7 +92,7 @@
 	},
 	{
 		"name": "Eastasia",
-		"leaderName": "Immortal Father",
+		"leaderName": "Enlightened Father",
 		"adjective": ["Eastasian"],
 		"personality": "Father",
 		"preferredVictoryType":"Domination",
@@ -99,26 +100,28 @@
 		"startIntroPart1": "",
 		"startIntroPart2": "",
 
-		"declaringWar": "Your resistance is futile, and now you will be forgotten.",
-		"attacked": "We have always been at war, I just gave you the mercy of a first strike.",
-		"defeated": "This is a momentary defeat. Eastasia endures, while you shall crumble from within.",
-		"introduction": "Your way of life is alien to the harmony of Eastasia, thread carefully.",
+		"declaringWar": "It has become apparent you refuse to accept the truth, now we must force you to realize it.",
+		"attacked": "You still hold on to the belief that your past sins are forgiven? It must be shown to you, existence is for the forgiveness if ",
+		//"attacked": "We have always been at war, I just gave you the mercy of a first strike.",
+		"defeated": "The Obliteration of Self isn't just a thought, it's a truth. While you crumble from within, Eastasia will endure...",
+		"introduction": "You will soon come to learn, suffering is from the sins of your past life. ",
 
-		"neutralHello": "Service to the state is the greatest honor.",
-		"hateHello": "Your stupidity outweighs your insignificance.",
+		"neutralHello": "In this life, you will learn the truth.",
+		"hateHello": "You continue to suffer, not because you're special, but because you refuse to accept forgiveness...",
 
-		"tradeRequest": "You now owe us a debt, repayment can be exchanged for servitude.",
-
-		"outerColor": [202, 180, 164],
-		"innerColor": [109, 16, 16],
+		"tradeRequest": "This may help in your journey to seek the redemption for your past sins.",
+		
+		"outerColor": [137, 89, 163],
+		"innerColor": [22, 22, 22],
 		"favoredReligion": "Death Worship",
-		"uniqueName": "The Father Lives On",
+		"uniqueName": "Obliteration of Self",
 		"uniques": [
 			"Cannot build [Atomic Bomber] units",
-			"[+1 Production] per [4] population [in all cities]",
+			"Cannot build [Atomic Bomber] units",
+			"[+1 Production] per [5] population [in all cities]",
 			"[+15]% Unhappiness from [Population] [in all cities] <when not at war>",
-			"[+10]% Strength <for [Gunpowder] units> <when fighting in [Friendly Land] tiles>",
-			"[-10]% Strength <for [Gunpowder] units> <when fighting in [Enemy Land] tiles>"
+			"[+10]% Strength <for [Wounded] units> <when attacking>",
+			"[+10]% Strength <when attacking> <when below [50] HP>"
 		]
 		"cities": [
 			"Chéngshì 1",
@@ -184,7 +187,7 @@
 		"startIntroPart1": "",
 		"startIntroPart2": "",
 
-		"declaringWar": "The State is free, the State is equal, you are... to be extinguished... forever.",
+		"declaringWar": "The State is free, the State is equal, you are not. You are... to be extinguished... forever.",
 		"attacked": "Your so called \"resistance\" is irrelevant, prepare for the full might of Eurasia.",
 		"defeated": "It is without doubt, the State will rise again, and you will fall, be forgotten, you... are nothing.",
 		"introduction": "Your existence is acknowledged.",
@@ -195,12 +198,12 @@
 		"tradeRequest": "For your people, as they need help from imperialists like you.",
 
 		"outerColor": [113, 9, 9],
-		"innerColor": [181, 168, 168],
+		"innerColor": [188, 200, 212],
 		"favoredReligion": "Neo-Bolshevism",
 		"uniqueName": "For Mother Russia's Glory",
 		"uniques": [
 			"Cannot build [Atomic Bomber] units",
-			"[+1 Culture] from every [Strategic resource]",
+			"[+1 Production] from every [Specialist]",
 			"[-10]% Strength <vs [{Military} {Land}]> <when not at war>",
 			"Quantity of strategic resources produced by the empire +[10]%"
 		]

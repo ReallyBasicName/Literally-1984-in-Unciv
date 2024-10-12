@@ -18,7 +18,7 @@
         "requiredTech": "Radio"
     },
 	{
-	"name": "Committee of Unity",
+	"name": "Council of the Self", // Council of Health, Council of Love, Council of Peace
 	"replaces": "Temple",
 	"uniqueTo": "Eastasia",
 	"faith": 2,
