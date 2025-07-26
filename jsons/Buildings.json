@@ -1,0 +1,47 @@
+[
+    {
+        "name": "Ministry of Truth",
+	"replaces": "National Intelligence Agency",
+	"uniqueTo": "Oceania",
+        "cost": 120,
+        "culture": 1,
+        "isNationalWonder": true,
+        "uniques": [
+		"Only available <when espionage is enabled>",
+        	"New spies start with [1] level(s)",
+        	"Promotes all spies [1] time(s)",
+        	"Gain an extra spy", // Order is significant here
+		"[-25]% enemy spy effectiveness [in this city]",
+		"Only available <if [Police Station] is constructed in all [non-[Puppeted]] cities>",
+		"Cost increases by [30] per owned city"
+	],
+        "requiredTech": "Radio"
+    },
+	{
+	"name": "Council of the Self", // Council of Health, Council of Love, Council of Peace
+	"replaces": "Temple",
+	"uniqueTo": "Eastasia",
+	"faith": 2,
+	"requiredBuilding": "Shrine",
+	"maintenance": 2,
+	"hurryCostModifier": 25,
+	"requiredTech": "Philosophy",
+	"uniques": [
+		"Only available <when religion is enabled>",
+		"Destroyed when the city is captured",
+		"[+2 Culture] [in this city] <when at war>",
+		"[-10]% enemy spy effectiveness [in this city]"
+	]
+	},
+	{
+	"name": "School of Liberty",
+	"replaces": "Theatre",
+	"uniqueTo": "The Brotherhood",
+	"happiness": 3,
+	"culture": 1
+	"hurryCostModifier": 10,
+	"maintenance": 1,
+	"requiredBuilding": "Colosseum",
+	"requiredTech": "Printing Press"
+	}
+]
