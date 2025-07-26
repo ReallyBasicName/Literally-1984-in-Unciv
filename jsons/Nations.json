@@ -123,7 +123,7 @@
 		"uniques": [
 			"Cannot build [Atomic Bomber] units",
 			"Cannot build [Nuclear Missile] units",
-			"[+1 Production] per [5] population [in all cities]",
+			"[+1 Faith] per [5] population [in capital]",
 			"[+15]% Unhappiness from [Population] [in all cities] <when not at war>",
 			"[+10]% Strength <for [Wounded] units> <when attacking>",
 			"[+10]% Strength <when attacking> <when below [50] HP>"
@@ -179,13 +179,13 @@
 		"outerColor": [113, 9, 9],
 		"innerColor": [188, 200, 212],
 		"favoredReligion": "Neo-Bolshevism",
-		"uniqueName": "For Mother Eurasia's Glory",
+		"uniqueName": "For Eurasia's Glory",
 		"uniques": [
 			"Cannot build [Atomic Bomber] units",
 			"Cannot build [Nuclear Missile] units",
-			"[+1 Production] from every [Specialist]",
+			"[+10]% [Strategic] resource production",
 			"[-10]% Strength <vs [{Military} {Land}]> <when not at war>",
-			"Quantity of strategic resources produced by the empire +[10]%"
+			"[+25]% of excess happiness converted to [Production] <in [Capital] cities>"
 		]
 		"cities": [
 			"Mosgrad",
