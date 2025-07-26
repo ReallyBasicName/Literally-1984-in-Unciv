@@ -11,17 +11,17 @@
 		"startIntroPart1": "",
 		"startIntroPart2": "",
 
-		"declaringWar": "You have committed the greatest of crimes: disloyalty. Prepare to be erased from history.",
+		"declaringWar": "You have committed the greatest of crimes: a thought crime. Prepare to be erased from history.",
 		"attacked": "Oceania is eternal. All memory of your resistance will be... erased.",
 		"defeated": "Temporary setbacks are irrelevant, the Party will rise again.",
-		"introduction": "Your existence is acknowledged.",
+		"introduction": "The Party acknowledges your existence existence.",
 
 		"neutralHello": "The Party sees all.",
 		"hateHello": "We know what you are. History will not remember your defiance.",
-		"denounced": "",
+		"denounced": "We have always been enemies. We were never allies with you.",
 
-		"tradeRequest": "May I interest you in an exchange of goods?.",
-		"declaringFriendship": "",
+		"tradeRequest": "The Party grants you this gift for your loyalty. ",
+		"declaringFriendship": "We have always been allies. We were never enemies with you.",
 		
 		"outerColor": [17, 17, 17],
 		"innerColor": [182, 52, 54],
@@ -111,10 +111,10 @@
 
 		"neutralHello": "In this life, you will learn the truth.",
 		"hateHello": "You continue to suffer, not because you're special, but because you refuse to accept forgiveness...",
-		"denounced": "",
+		"denounced": "There is still hope for you, repent now and you may be forgiven.",
 
 		"tradeRequest": "This may help in your journey to seek the redemption for your past sins.",
-		"declaringFriendship": "",
+		"declaringFriendship": "You are close to the truth, but you are not there yet. Let us help you in achieving enlightment.",
 		
 		"outerColor": [137, 89, 163],
 		"innerColor": [22, 22, 22],
@@ -164,17 +164,17 @@
 		"startIntroPart1": "",
 		"startIntroPart2": "",
 
-		"declaringWar": "The State is free, the State is equal, you are not. You are... to be extinguished... forever.",
-		"attacked": "Your so called \"resistance\" is irrelevant, prepare for the full might of Eurasia.",
+		"declaringWar": "You have become an enemy of the people! Fear not, your people will be free soon.",
+		"attacked": "Your so called \"resistance\" is meaningless, prepare for the full might of Eurasia!",
 		"defeated": "It is without doubt, the State will rise again, and you will fall, be forgotten, you... are nothing.",
-		"introduction": "Your existence is acknowledged.",
+		"introduction": "Welcome to glorious Eurasia! You will need to prove yourself an ally of Eurasia to share some of this glory.",
 
 		"neutralHello": "Comrade.",
 		"hateHello": "Report to the State.",
-		"denounced": "",
+		"denounced": "The people of Eurasia are disappointed in you.",
 
 		"tradeRequest": "For your people, as they need help from imperialists like you.",
-		"declaringFriendship": "",
+		"declaringFriendship": "Eurasia welcomes a champion of the people like you. I would do you well to accept this, comrade.",
 
 		"outerColor": [113, 9, 9],
 		"innerColor": [188, 200, 212],
@@ -259,12 +259,14 @@
 		"declaringWar": "The revolution starts here!",
 		"attacked": "You will see it soon, freedom always prevails!",
 		"defeated": "You won't succeed, everything falls apart eventually...",
-		"introduction": "Be wary, they may see you here.",
+		"introduction": "Have we been found? No, not yet. Be wary, they may see you here.",
 
 		"neutralHello": "Were you followed?",
-		"hateHello": "You don't respect the fundemental rights of humanity! You are a dead man walking.",
+		"hateHello": "You are a dead man walking.",
+		"denounced": "You didn't have to do this, you could have help me instead...",
 
 		"tradeRequest": "This may help in the revolution, please accept.",
+		"declaringFriendship": "Among the many regimes I've seen, you stand out as one who respect the fundemental rights of humanity. What do you say about getting better acquainted?",
 		
 		"outerColor": [36, 14, 27],
 		"innerColor": [253, 172, 54],
