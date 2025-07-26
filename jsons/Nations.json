@@ -5,7 +5,7 @@
 		"leaderName": "Big Brother",
 		"adjective": ["Oceanic"],
 		"startBias": ["Coast"],
-		"personality": "Brother",
+		"personality": "Big Brother",
 		"preferredVictoryType":"Domination",
 
 		"startIntroPart1": "",
@@ -97,7 +97,7 @@
 		"name": "Eastasia",
 		"leaderName": "Enlightened Father",
 		"adjective": ["Eastasian"],
-		"personality": "Father",
+		"personality": "Enlightened Father",
 		"preferredVictoryType":"Domination",
 
 		"startIntroPart1": "",
@@ -158,7 +158,7 @@
 		"leaderName": "Mother Russia",
 		"adjective": ["Eurasian"],
 		"startBias": ["Tundra"],
-		"personality": "Mother",
+		"personality": "Mother Russia",
 		"preferredVictoryType":"Domination",
 
 		"startIntroPart1": "",
@@ -250,7 +250,7 @@
 		"name": "The Brotherhood",
 		"leaderName": "Emmanuel Goldstein",
 		"adjective": ["Brotherhood"],
-		"personality": "Emmanuel",
+		"personality": "Goldstein",
 		"preferredVictoryType":"Diplomatic",
 
 		"startIntroPart1": "",
