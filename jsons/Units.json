@@ -27,7 +27,7 @@
 			"Can remove other religions from cities <in [Friendly] tiles> <[2] times> <after which this unit is consumed>",
 			"Can be purchased with [Faith] [in all cities in which the majority religion is a major religion]",
 			"[+1] Sight",
-			"Hidden when religion is disabled",
+			"Only available <when religion is enabled>",
 			"Unbuildable",
 			"Religious Unit"
 		],
@@ -112,4 +112,17 @@
 		"attackSound": "shot"
 	},
 
+	{
+		"name": "Freedman",
+		"unitType": "Gunpowder",
+		"uniqueTo": "The Brotherhood",
+		"replaces": "Infantry",
+		"movement": 2,
+		"strength": 70,
+		"cost": 350,
+		"requiredTech": "Plastics",
+		"upgradesTo": "Mechanized Infantry",
+		"obsoleteTech": "Mobile Tactics",
+		"attackSound": "shot"
+	},
 ]

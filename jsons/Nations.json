@@ -5,21 +5,23 @@
 		"leaderName": "Big Brother",
 		"adjective": ["Oceanic"],
 		"startBias": ["Coast"],
-		"personality": "Brother",
+		"personality": "Big Brother",
 		"preferredVictoryType":"Domination",
 
 		"startIntroPart1": "",
 		"startIntroPart2": "",
 
-		"declaringWar": "You have committed the greatest of crimes: disloyalty. Prepare to be erased from history.",
+		"declaringWar": "You have committed the greatest of crimes: a thought crime. Prepare to be erased from history.",
 		"attacked": "Oceania is eternal. All memory of your resistance will be... erased.",
 		"defeated": "Temporary setbacks are irrelevant, the Party will rise again.",
-		"introduction": "Your existence is acknowledged.",
+		"introduction": "The Party acknowledges your existence existence.",
 
 		"neutralHello": "The Party sees all.",
 		"hateHello": "We know what you are. History will not remember your defiance.",
+		"denounced": "We have always been enemies. We were never allies with you.",
 
-		"tradeRequest": "May I interest you in an exchange of goods?.",
+		"tradeRequest": "The Party grants you this gift for your loyalty. ",
+		"declaringFriendship": "We have always been allies. We were never enemies with you.",
 		
 		"outerColor": [17, 17, 17],
 		"innerColor": [182, 52, 54],
@@ -39,44 +41,14 @@
 
 		],
 		"cities": [
-			"Lond",
-			"Yor",
-			"Nott",
-			"Hast",
-			"Cant",
-			"Cov",
-			"Wik",
-			"Newc",
-			"Ofor",
-			"Liverp",
-			"Dov",
-			"Bright",
-			"Norwi",
-			"Led",
-			"Read",
-			"Birmin",
-			"Richm",
-			"Exet",
-			"Cambr",
-			"Glouc",
-			"Manch",
-			"Brist",
-			"Leic",
-			"Carlis",
-			"Ipswi",
-			"Ports",
-			"Berwi",
-			"Bat",
-			"Mumbl",
-			"Southam",
-			"Sheff",
-			"Salis",
-			"Colch",
-			"Plym",
-			"Lanc",
-			"Blackp",
-			"Winch",
-			"Hul"
+			"Lond", "Yor", "Nott", "Hast", "Cant",
+			"Cov", "Wik", "Newc", "Ofor", "Liverp",
+			"Dov", "Bright", "Norwi", "Led", "Read",
+			"Birmin", "Richm", "Exet", "Cambr", "Glouc",
+			"Manch", "Brist", "Leic", "Carlis", "Ipswi", 
+			"Ports", "Berwi", "Bat", "Mumbl", "Southam",
+			"Sheff", "Salis", "Colch", "Plym", "Lanc",
+			"Blackp", "Winch", "Hul"
 		],
 		"spyNames": [
 			"Agent O'Brien",
@@ -88,14 +60,14 @@
 			"Agent White",
 			"Agent Crimson",
 			"Agent Maroon",
-			"Shadow of Room 101"
+			"Agent King"
 		]
 	},
 	{
 		"name": "Eastasia",
 		"leaderName": "Enlightened Father",
 		"adjective": ["Eastasian"],
-		"personality": "Father",
+		"personality": "Enlightened Father",
 		"preferredVictoryType":"Domination",
 
 		"startIntroPart1": "",
@@ -109,8 +81,10 @@
 
 		"neutralHello": "In this life, you will learn the truth.",
 		"hateHello": "You continue to suffer, not because you're special, but because you refuse to accept forgiveness...",
+		"denounced": "There is still hope for you, repent now and you may be forgiven.",
 
 		"tradeRequest": "This may help in your journey to seek the redemption for your past sins.",
+		"declaringFriendship": "You are close to the truth, but you are not there yet. Let us help you in achieving enlightment.",
 		
 		"outerColor": [137, 89, 163],
 		"innerColor": [22, 22, 22],
@@ -119,50 +93,22 @@
 		"uniques": [
 			"Cannot build [Atomic Bomber] units",
 			"Cannot build [Nuclear Missile] units",
-			"[+1 Production] per [5] population [in all cities]",
+			"[+1 Faith] per [5] population [in capital]",
 			"[+15]% Unhappiness from [Population] [in all cities] <when not at war>",
 			"[+10]% Strength <for [Wounded] units> <when attacking>",
 			"[+10]% Strength <when attacking> <when below [50] HP>"
 		]
 		"cities": [
-			"Chéngshì 1",
-			"Chéngshì 2",
-			"Chéngshì 3",
-			"Chéngshì 4",
-			"Chéngshì 5",
-			"Chéngshì 6",
-			"Chéngshì 7",
-			"Chéngshì 8",
-			"Chéngshì 9",
-			"Chéngshì 10",
-			"Chéngshì 11",
-			"Chéngshì 12",
-			"Chéngshì 13",
-			"Chéngshì 14",
-			"Chéngshì 15",
-			"Chéngshì 16",
-			"Chéngshì 17",
-			"Chéngshì 18",
-			"Chéngshì 19",
-			"Chéngshì 20",
-			"Chéngshì 21",
-			"Chéngshì 22",
-			"Chéngshì 23",
-			"Chéngshì 24",
-			"Chéngshì 25",
-			"Chéngshì 26",
-			"Chéngshì 27",
-			"Chéngshì 28",
-			"Chéngshì 29",
-			"Chéngshì 30",
-			"Chéngshì 31",
-			"Chéngshì 32",
-			"Chéngshì 33",
-			"Chéngshì 34",
-			"Chéngshì 35",
-			"Chéngshì 36",
-			"Chéngshì 37",
-			"Chéngshì 38"
+			"Chéngshì 1", "Chéngshì 2", "Chéngshì 3", "Chéngshì 4", "Chéngshì 5", 
+			"Chéngshì 6", "Chéngshì 7", "Chéngshì 8", "Chéngshì 9", "Chéngshì 10", 
+			"Chéngshì 11", "Chéngshì 12", "Chéngshì 13", "Chéngshì 14", "Chéngshì 15", 
+			"Chéngshì 16", "Chéngshì 17", "Chéngshì 18", "Chéngshì 19", "Chéngshì 20", 
+			"Chéngshì 21", "Chéngshì 22", "Chéngshì 23", "Chéngshì 24", "Chéngshì 25", 
+			"Chéngshì 26", "Chéngshì 27", "Chéngshì 28", "Chéngshì 29", "Chéngshì 30", 
+			"Chéngshì 31", "Chéngshì 32", "Chéngshì 33", "Chéngshì 34", "Chéngshì 35", 
+			"Chéngshì 36", "Chéngshì 37", "Chéngshì 38", "Chéngshì 39", "Chéngshì 40",
+			"Chéngshì 41", "Chéngshì 42", "Chéngshì 43", "Chéngshì 44", "Chéngshì 45", 
+			"Chéngshì 46", "Chéngshì 47", "Chéngshì 48", "Chéngshì 49", "Chéngshì 50"
 		],
 		"spyNames": [
 			"Commissar Tojo",
@@ -174,7 +120,7 @@
 			"Commissar Bright",
 			"Commissar Khan",
 			"Commissar Aung",
-			"Dragon of the Four Truths"
+			"Commissar of the Four Truths"
 		]
 	},
 	{
@@ -182,78 +128,45 @@
 		"leaderName": "Mother Russia",
 		"adjective": ["Eurasian"],
 		"startBias": ["Tundra"],
-		"personality": "Mother",
+		"personality": "Mother Russia",
 		"preferredVictoryType":"Domination",
 
 		"startIntroPart1": "",
 		"startIntroPart2": "",
 
-		"declaringWar": "The State is free, the State is equal, you are not. You are... to be extinguished... forever.",
-		"attacked": "Your so called \"resistance\" is irrelevant, prepare for the full might of Eurasia.",
+		"declaringWar": "You have become an enemy of the people! Fear not, your people will soon be free.",
+		"attacked": "Your so called \"resistance\" is meaningless, prepare for the full might of Eurasia!",
 		"defeated": "It is without doubt, the State will rise again, and you will fall, be forgotten, you... are nothing.",
-		"introduction": "Your existence is acknowledged.",
+		"introduction": "Welcome to glorious Eurasia! You will need to prove yourself an ally of Eurasia to share some of this glory.",
 
 		"neutralHello": "Comrade.",
 		"hateHello": "Report to the State.",
+		"denounced": "The people of Eurasia are disappointed in you.",
 
 		"tradeRequest": "For your people, as they need help from imperialists like you.",
+		"declaringFriendship": "Eurasia welcomes a champion of the people like you. I would do you well to accept this, comrade.",
 
 		"outerColor": [113, 9, 9],
 		"innerColor": [188, 200, 212],
 		"favoredReligion": "Neo-Bolshevism",
-		"uniqueName": "For Mother Russia's Glory",
+		"uniqueName": "For Eurasia's Glory",
 		"uniques": [
 			"Cannot build [Atomic Bomber] units",
 			"Cannot build [Nuclear Missile] units",
-			"[+1 Production] from every [Specialist]",
+			"[+10]% [Strategic] resource production",
 			"[-10]% Strength <vs [{Military} {Land}]> <when not at war>",
-			"Quantity of strategic resources produced by the empire +[10]%"
+			"[+25]% of excess happiness converted to [Production] <in [Capital] cities>"
 		]
 		"cities": [
-			"Mosgrad",
-			"Lengrad",
-			"Kevgrad",
-			"Mingrad",
-			"Kargrad",
-			"Stalgrad",
-			"Sergrad",
-			"Gorgrad",
-			"Krasgrad",
-			"Vladgrad",
-			"Novgrad",
-			"Krangrad",
-			"Kubgrad",
-			"Bakgrad",
-			"Tilgrad",
-			"Almgrad",
-			"Tasgrad",
-			"Omgrad",
-			"Ufgrad",
-			"Celgrad",
-			"Sevgrad",
-			"Molgrad",
-			"Kalgrad",
-			"Riggrad",
-			"Talgrad",
-			"Kazgrad",
-			"Odgrad",
-			"Kirgrad",
-			"Ulgrad",
-			"Depgrad",
-			"Stangrad",
-			"Kabgrad",
-			"Tolgrad",
-			"Bargrad",
-			"Ustgrad",
-			"Ordgrad",
-			"Asgrad",
-			"Stagrad",
-			"Nuzgrad",
-			"Telgrad",
-			"Kargrad",
-			"Fungrad",
-			"Cegrad",
-			"Arzgrad"
+			"Mosgrad", "Lengrad", "Kevgrad", "Mingrad", "Kargrad",
+			"Stalgrad", "Sergrad", "Gorgrad", "Krasgrad", "Vladgrad",
+			"Novgrad", "Krangrad", "Kubgrad", "Bakgrad", "Tilgrad",
+			"Almgrad", "Tasgrad", "Omgrad", "Ufgrad", "Celgrad",
+			"Sevgrad", "Molgrad", "Kalgrad", "Riggrad", "Talgrad",
+			"Kazgrad", "Odgrad", "Kirgrad", "Ulgrad", "Depgrad",
+			"Stangrad", "Kabgrad", "Tolgrad", "Bargrad", "Ustgrad",
+			"Ordgrad", "Asgrad", "Stagrad", "Nuzgrad", "Telgrad",
+			"Kargrad", "Fungrad", "Cegrad", "Arzgrad"
 		],
 		"spyNames": [
 			"Comrade Vladimir",
@@ -265,7 +178,62 @@
 			"Comrade Łukasz",
 			"Comrade Marie",
 			"Comrade Juan",
-			"Famine of 1000 Souls"
+			"Comrade Flora"
 		]
-	}
+	},
+	{
+		"name": "The Brotherhood",
+		"leaderName": "Emmanuel Goldstein",
+		"adjective": ["Brotherhood"],
+		"personality": "Goldstein",
+		"preferredVictoryType":"Diplomatic",
+
+		"startIntroPart1": "",
+		"startIntroPart2": "",
+
+		"declaringWar": "The revolution starts here!",
+		"attacked": "You will see it soon, freedom always prevails!",
+		"defeated": "You won't succeed, everything falls apart eventually...",
+		"introduction": "Have we been found? No, not yet. Be wary, they may see you here.",
+
+		"neutralHello": "Were you followed?",
+		"hateHello": "You are a dead man walking.",
+		"denounced": "You didn't have to do this, you could have help me instead...",
+
+		"tradeRequest": "This may help in the revolution, please accept.",
+		"declaringFriendship": "Among the many regimes I've seen, you stand out as one who respect the fundemental rights of humanity. What do you say about getting better acquainted?",
+		
+		"outerColor": [36, 14, 27],
+		"innerColor": [253, 172, 54],
+
+		//"favoredReligion": "",
+		"uniqueName": "Freedom, Strength, Humanity",
+		"uniques": [
+			"Cannot build [Atomic Bomber] units",
+			"Cannot build [Nuclear Missile] units",
+			"[+1 Culture] from every [Specialist]",
+			"Enables conversion of city production to [Culture]",
+			"[+10]% Strength <for [{Military} {Land}] units> <in [Friendly Land] tiles> <when above [10] Happiness>"
+		],
+		"cities": [
+			"Cell One", "Sector Seven", "Railyard 12", "Harbor Gate", "Old Town", 
+			"East End", "North Borough", "South Wharf", "Central Hub", "Market Row", 
+			"Docklands", "Liberty Lane", "Victory Station", "Freedom Square", "Ironworks", 
+			"Ashfield", "Clayton", "Riverside", "Greenpark", "Frostmill"
+		],
+		"spyNames": [
+			"Tiger of Mumbai",
+			"Viper of Saigon",
+			"Lion of Nairobi",
+			"Shark of Jakarta",
+			"Ghost of Cairo",
+			"Bear of Moscow",
+			"Wolf of Anchorage",
+			"Scorpion of Timbuktu",
+			"Dragon of Taipei",
+			"Leopard of Karachi",
+			"Eagle of Harare",
+			"Vengeance of the Lost"
+		]
+	},
 ]
